@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "mostly-recipes": {
+      "type": "http",
+      "url": "https://mostly.recipes/mcp"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "mostly-recipes",
+  "displayName": "Mostly Recipes",
+  "version": "1.0.0",
+  "description": "Save recipes from your conversations to your Mostly Recipes cookbook, and reopen the ones Claude saved.",
+  "author": {
+    "name": "Justin Williams",
+    "email": "support@mostly.recipes",
+    "url": "https://mostly.recipes"
+  },
+  "homepage": "https://mostly.recipes/assistants",
+  "repository": "https://github.com/nerdstep/mostly-plugins",
+  "license": "MIT",
+  "keywords": ["recipes", "cooking", "cookbook", "recipe import"]
+}
