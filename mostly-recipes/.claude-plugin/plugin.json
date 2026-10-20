@@ -9,6 +9,7 @@
     "url": "https://mostly.recipes"
   },
   "homepage": "https://mostly.recipes/assistants",
+  "privacyPolicyUrl": "https://mostly.recipes/legal#ai-assistants",
   "repository": "https://github.com/nerdstep/mostly-plugins",
   "license": "MIT",
   "keywords": ["recipes", "cooking", "cookbook", "recipe import"]
